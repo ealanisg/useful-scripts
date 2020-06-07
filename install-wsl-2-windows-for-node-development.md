@@ -20,14 +20,20 @@ Install Yarn
 https://classic.yarnpkg.com/en/docs/install/#debian-stable
 
 Configure .git-credentials
+https://www.shellhacks.com/git-config-username-password-store-credentials/
+git config --global credential.helper store
 
 Configure .npmrc
+If problems on test
+rmdir ~/.npmrc && touch ~/.npmrc
 
 Download Repo and Run
 
 Install & Configure WebStorm for WSL
 https://stackoverflow.com/questions/51912772/how-to-use-wsl-as-default-terminal-in-webstorm-or-any-other-jetbrains-products
 
-Download Repo
+Install Gally Globally
+
+
 
 

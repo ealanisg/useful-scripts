@@ -19,9 +19,15 @@ https://gist.github.com/noygal/6b7b1796a92d70e24e35f94b53722219
 Install Yarn
 https://classic.yarnpkg.com/en/docs/install/#debian-stable
 
+Configure .git-credentials
+
+Configure .npmrc
+
+Download Repo and Run
+
 Install & Configure WebStorm for WSL
 https://stackoverflow.com/questions/51912772/how-to-use-wsl-as-default-terminal-in-webstorm-or-any-other-jetbrains-products
 
 Download Repo
 
-Configure git credentials
+

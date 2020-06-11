@@ -34,6 +34,13 @@ https://stackoverflow.com/questions/51912772/how-to-use-wsl-as-default-terminal-
 
 Install Gally Globally
 
+-- Tunning, restrict WSL 2 Memory and CPU Usage
+https://www.bleepingcomputer.com/news/microsoft/windows-10-wsl2-now-allows-you-to-configure-global-options/
+https://medium.com/@lewwybogus/how-to-stop-wsl2-from-hogging-all-your-ram-with-docker-d7846b9c5b37
+create .wslconfig file on c:\users\UserName\
 
+[wsl2]
+memory=4GB # Limits VM memory in WSL 2 to 4 GB
+processors=8 # Makes the WSL 2 VM use eight virtual processors
 
-
+Restart-Service LxssManager

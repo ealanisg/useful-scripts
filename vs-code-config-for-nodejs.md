@@ -11,6 +11,6 @@ Multiple clipboards for VSCode\
 https://marketplace.visualstudio.com/items?itemName=slevesque.vscode-multiclip \
 ESLint\
 YAML\
-https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml
-CloudFormation YAML Snippets for VS Code
-https://marketplace.visualstudio.com/items?itemName=dsteenman.cloudformation-yaml-snippets
+https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml \
+CloudFormation\
+https://marketplace.visualstudio.com/items?itemName=aws-scripting-guy.cform

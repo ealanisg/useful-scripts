@@ -10,6 +10,7 @@ Extensions\
 Multiple clipboards for VSCode\
 https://marketplace.visualstudio.com/items?itemName=slevesque.vscode-multiclip \
 ESLint\
+https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint \
 YAML\
 https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml \
 CloudFormation\

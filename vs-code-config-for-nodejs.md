@@ -8,4 +8,5 @@ Settings - Text Editor - Files: Auto Save { afterDelay } | Auto Save Delay { 100
 
 Extensions\
 Multiple clipboards for VSCode\
-https://marketplace.visualstudio.com/items?itemName=slevesque.vscode-multiclip
+https://marketplace.visualstudio.com/items?itemName=slevesque.vscode-multiclip \
+ESLint

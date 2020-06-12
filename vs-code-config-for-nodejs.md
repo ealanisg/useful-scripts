@@ -9,4 +9,8 @@ Settings - Text Editor - Files: Auto Save { afterDelay } | Auto Save Delay { 100
 Extensions\
 Multiple clipboards for VSCode\
 https://marketplace.visualstudio.com/items?itemName=slevesque.vscode-multiclip \
-ESLint
+ESLint\
+YAML\
+https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml
+CloudFormation YAML Snippets for VS Code
+https://marketplace.visualstudio.com/items?itemName=dsteenman.cloudformation-yaml-snippets

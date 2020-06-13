@@ -22,4 +22,6 @@ https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml \
 CloudFormation\
 https://marketplace.visualstudio.com/items?itemName=aws-scripting-guy.cform \
 Docker\
-https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker
+https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker \
+Gitlens
+https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens

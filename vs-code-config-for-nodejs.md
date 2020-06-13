@@ -13,6 +13,8 @@ Settings - User - Typescript: Javascript: Format: Insert Space After Opening And
 
 
 Extensions\
+IntelliJ IDEA Keybindings\
+https://marketplace.visualstudio.com/items?itemName=k--kato.intellij-idea-keybindings \
 Multiple clipboards for VSCode\
 https://marketplace.visualstudio.com/items?itemName=slevesque.vscode-multiclip \
 ESLint\

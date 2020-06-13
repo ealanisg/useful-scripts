@@ -20,4 +20,6 @@ https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint \
 YAML\
 https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml \
 CloudFormation\
-https://marketplace.visualstudio.com/items?itemName=aws-scripting-guy.cform
+https://marketplace.visualstudio.com/items?itemName=aws-scripting-guy.cform \
+Docker\
+https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker

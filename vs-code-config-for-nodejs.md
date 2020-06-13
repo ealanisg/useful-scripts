@@ -23,5 +23,5 @@ CloudFormation\
 https://marketplace.visualstudio.com/items?itemName=aws-scripting-guy.cform \
 Docker\
 https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker \
-Gitlens
+Gitlens\
 https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens

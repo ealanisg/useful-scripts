@@ -7,11 +7,8 @@ Settings - Text Editor - Diff Editor: Ignore Trim Whitespace [_]\
 Settings - Text Editor - Editor: Trim Auto Whitespace [ ]\
 Settings - Text Editor - Files: Auto Save { afterDelay } | Auto Save Delay { 100 }\
 Settings - User - Typescript: Javascript: Format: Insert Space After Opening And Before Closing Nonepty Braces [X]\
+Settings - User - Terminal: Integrated: Scrollback: { 8000 }\
 "javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBraces": true
-
-
-
-
 
 
 Extensions\

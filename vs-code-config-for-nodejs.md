@@ -25,4 +25,6 @@ https://marketplace.visualstudio.com/items?itemName=aws-scripting-guy.cform \
 Docker\
 https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker \
 Gitlens\
-https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
+https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens \
+Github Create Pull Requests\
+https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github

@@ -3,6 +3,7 @@ https://github.com/loopmediagroup/guidelines/blob/master/setup/JetBrains.md
 
 Settings - Text Editor - Files: Insert Final Newline [X]\
 Settings - Editor - Detect Identation: [ ]\
+Settings - Editor - Tab Size: { 2 }\
 Settings - Text Editor - Files: Trim Trailing Whitespace [X]\
 Settings - Text Editor - Diff Editor: Ignore Trim Whitespace [_]\
 Settings - Text Editor - Editor: Trim Auto Whitespace [ ]\

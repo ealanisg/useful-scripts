@@ -29,4 +29,6 @@ https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker 
 Gitlens\
 https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens \
 Github Create Pull Requests\
-https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github
+https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github \
+Scratchpads\
+https://marketplace.visualstudio.com/items?itemName=buenon.scratchpads

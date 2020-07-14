@@ -15,6 +15,7 @@ const capitalize = (s) => {
 
 const dir = fs.opendirSync('.');
 let dirent;
+// eslint-disable-next-line no-cond-assign
 while ((dirent = dir.readSync()) !== null) {
   const filePath = path.join('./', dirent.name);
   const prefix = capitalize(snakeToCamel(dirent.name));
@@ -22,12 +23,12 @@ while ((dirent = dir.readSync()) !== null) {
   const files = fs.walkDir(filePath).sort();
   // console.log(files);
   files.forEach((f) => {
-    const currFilename = `${filePath}/${f}`
+    const currFilename = `${filePath}/${f}`;
     const newFilename = `${filePath}/handler${prefix}${capitalize(f)}`;
     // console.log(currFilename);
     // console.log(newFilename);
     fs.rename(currFilename, newFilename, (e) => {
-      if(e) {
+      if (e) {
         console.log(e);
       } else {
         console.log('renamed ok');

@@ -31,4 +31,7 @@ https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens \
 Github Create Pull Requests\
 https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github \
 Scratchpads\
-https://marketplace.visualstudio.com/items?itemName=buenon.scratchpads
+https://marketplace.visualstudio.com/items?itemName=buenon.scratchpads \
+Open in Default Browser\
+peakchen90.open-html-in-browser\
+https://github.com/peakchen90/vscode-open-in-default-browser/blob/master/README.ZH-CN.md
